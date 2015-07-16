@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexgridComMVC", "FlexgridComMVC\FlexgridComMVC.csproj", "{CE9E3BF1-758C-4BDD-A0CE-1AF1E195B4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9E3BF1-758C-4BDD-A0CE-1AF1E195B4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9E3BF1-758C-4BDD-A0CE-1AF1E195B4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9E3BF1-758C-4BDD-A0CE-1AF1E195B4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9E3BF1-758C-4BDD-A0CE-1AF1E195B4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

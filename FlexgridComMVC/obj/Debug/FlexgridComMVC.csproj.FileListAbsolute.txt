@@ -1,0 +1,22 @@
+c:\users\rafael.zaccanini\documents\visual studio 2010\Projects\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.dll
+c:\users\rafael.zaccanini\documents\visual studio 2010\Projects\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.pdb
+c:\users\rafael.zaccanini\documents\visual studio 2010\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rafael.zaccanini\documents\visual studio 2010\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.dll
+c:\users\rafael.zaccanini\documents\visual studio 2010\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.pdb
+J:\Projects\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.dll
+J:\Projects\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.pdb
+J:\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.dll
+J:\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.pdb
+E:\Projects\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.dll
+E:\Projects\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.pdb
+E:\Projects\FlexgridComMVC\FlexgridComMVC\bin\Fluqi.dll
+E:\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.dll
+E:\Projects\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.pdb
+J:\Projects\FlexgridComMVC\FlexgridComMVC\bin\Fluqi.dll
+E:\Codicon Tecnologia\Projetos de Teste\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.dll
+E:\Codicon Tecnologia\Projetos de Teste\FlexgridComMVC\FlexgridComMVC\bin\FlexgridComMVC.pdb
+E:\Codicon Tecnologia\Projetos de Teste\FlexgridComMVC\FlexgridComMVC\bin\Fluqi.dll
+E:\Codicon Tecnologia\Projetos de Teste\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.dll
+E:\Codicon Tecnologia\Projetos de Teste\FlexgridComMVC\FlexgridComMVC\obj\Debug\FlexgridComMVC.pdb
